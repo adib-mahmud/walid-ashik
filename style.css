@@ -39,7 +39,7 @@ body {
 
 /* === CONTAINER START ===  */
 .container {
-  width: 85%;
+  width: 1140px;
   margin: 0 auto;
 }
 
@@ -270,16 +270,11 @@ h3 {
 
 
 /* BUSINESS START  */
-.business-relative{
-    position: relative;
-}
-.animate-video {    
-    width: 100%;
-}
-.absolute {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
+
+
+
 /* BUSINESS END  */
+
+svg {
+    width: 20px;
+}
